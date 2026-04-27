@@ -1,0 +1,8 @@
+opencv-python>=4.9.0
+mediapipe>=0.10.14
+tensorflow>=2.14.0
+tensorflow-metal
+numpy>=1.26.0,<2.0
+scikit-learn>=1.4.0
+# cvzone is optional - scripts fall back to MediaPipe if not installed
+# cvzone>=1.6.1
